@@ -54,8 +54,8 @@ export const siteConfig: SiteConfig = {
 		mode: "text-icon",
 		// 顶栏标题文本
 		text: "九成|橘子熊的博客",
-		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
-		icon: "assets/home/home.png",
+		// 顶栏标题图标路径，默认使用 public/assets/home/home.png   assets/home/home.png
+		icon: "E:\厌心\图标png",
 		// 网站Logo图片路径
 		logo: "assets/home/default-logo.png",
 	},
