@@ -1,49 +1,11 @@
+##### 这个网站是橘子熊专门用来发布软件相关信息的博客。包含正在开发的软件的不同版本，软件的开发日志。其实只有这两部分，其他都是多余的不一定更新。暂时先这样吧！未找到的页面都是我认为多余从而删掉关闭的部分，并不是真的有什么东西没有了。搞网站很麻烦，一个下午就搞定大多数了可以编辑内容用obsidian写md语法我觉得已经很快了。之后的内容再慢慢调试嘛.
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+##### 橘子熊是类似工作室的代号，虽然是只有一人的空头工作室，仅存在在我脑子里（笑）。就像套皮预设一样，我是九成，发布程序的时候都使用套纸壳子橘子熊来称呼。
 
-::github{repo="matsuzaka-yuki/Mizuki"}
-
-## 🌟 Theme Features
-
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
-
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+### 目前正在更新的程序是便签。 
+#### 进度：暂且就叫便签，基础功能已搭建完成，正在优化和改进新功能
 
 
-
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
-
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
----
-
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+###    
+##### 未来会推出手机应用小熊盆栽，一款计划类+日程日记类软件，主打便捷记录和快速做计划以及低精力人群的快速奖惩机制，帮助即使精力不高的人也可以舒适的计划，将不多的精力组合成更多的事情，慢慢的让用户可以做更多事情。 
+#### 进度：html demo锐意制作中^_^
