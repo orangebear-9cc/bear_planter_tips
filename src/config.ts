@@ -51,11 +51,11 @@ export const siteConfig: SiteConfig = {
 	// 顶栏标题配置
 	navbarTitle: {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
-		mode: "logo",
+		mode: "text-icon",
 		// 顶栏标题文本
 		text: "九成|橘子熊的博客",
-		// 顶栏标题图标路径，默认使用 public/assets/home/home.png   assets/home/home.png
-		icon: "E:\厌心\图标png",
+		// 顶栏标题图标路径，默认使用 public/assets/home/home.png
+		icon: "assets/home/home.png",
 		// 网站Logo图片路径
 		logo: "assets/home/default-logo.png",
 	},
