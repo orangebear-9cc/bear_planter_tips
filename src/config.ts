@@ -218,7 +218,7 @@ export const siteConfig: SiteConfig = {
 			// 中日韩字体 - 作为回退字体
 			fontFamily: "ZenMaruGothic",
 			fontWeight: "500",
-			localFonts: ["ZenMaruGothic-Medium.ttf"],
+			localFonts: ["ZenMaruGothic-Medium.otf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
