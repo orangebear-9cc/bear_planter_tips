@@ -42,8 +42,8 @@
 
 /* 导入 萝莉体 第二版 字体 */
 @font-face {
-  font-family: "寒蝉云墨黑";
-  src: url("/assets/font/ChillYunmoGothicBold.otf") format("otf");
+  font-family: "日暮圆黑体";
+  src: url("/assets/font/HigureGothic-Bold.ttf") format("ttf");
   font-style: normal;
   font-weight: 400;
   font-display: swap;

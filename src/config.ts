@@ -216,9 +216,9 @@ export const siteConfig: SiteConfig = {
 		},
 		cjkFont: {
 			// 中日韩字体 - 作为回退字体
-			fontFamily: "ZenMaruGothic",
+			fontFamily: "日暮圆黑体",
 			fontWeight: "500",
-			localFonts: ["ZenMaruGothic-Medium.otf"],
+			localFonts: ["HigureGothic-Bold.ttf"],
 			enableCompress: true, // 启用字体子集优化，减少字体文件大小
 		},
 	},
