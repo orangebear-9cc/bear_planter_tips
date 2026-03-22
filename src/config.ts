@@ -55,7 +55,7 @@ export const siteConfig: SiteConfig = {
 		// 顶栏标题文本
 		text: "九成|橘子熊的博客",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png   assets/home/home.png
-		icon: "E:\厌心\图标png",
+		icon: "public/assets/home/home.png",
 		// 网站Logo图片路径
 		logo: "assets/home/default-logo.png",
 	},
@@ -223,11 +223,6 @@ export const fullscreenWallpaperConfig: FullscreenWallpaperConfig = {
 	src: {
 		desktop: [
 			"/assets/desktop-banner/1.webp",
-			"/assets/desktop-banner/2.webp",
-			"/assets/desktop-banner/3.webp",
-			"/assets/desktop-banner/4.webp",
-			"/assets/desktop-banner/5.webp",
-			"/assets/desktop-banner/6.webp",
 		], // 桌面横幅图片
 		mobile: [
 			"/assets/mobile-banner/1.webp",
@@ -259,23 +254,23 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:link",
 			children: [
 				{
-					name: "GitHub",
-					url: "https://github.com/matsuzaka-yuki/Mizuki",
+					name: "小红书",
+					url: "https://xhsink.com/m/1YuJe9Bz/Uxk",
 					external: true,
-					icon: "fa7-brands:github",
+					icon: "simple-icons:xiaohongshu",
 				},
 				{
-					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					name: "POME提问箱",
+					url: "https://www.pome.vip/44bbcfb4",
 					external: true,
-					icon: "fa7-brands:bilibili",
+					icon: "material-symbols:box-outline",
 				},
-				{
-					name: "Gitee",
-					url: "https://gitee.com/matsuzakayuki/Mizuki",
-					external: true,
-					icon: "mdi:git",
-				},
+				// {
+				// 	name: "Gitee",
+				// 	url: "https://gitee.com/matsuzakayuki/Mizuki",
+				// 	external: true,
+				// 	icon: "mdi:git",
+				// },
 			],
 		},
 		{
@@ -454,7 +449,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	mode: "meting", // 音乐播放器模式，可选 "local" 或 "meting"
 	meting_api:
 		"https://meting.mysqil.com/api?server=:server&type=:type&id=:id&auth=:auth&r=:r", // Meting API 地址
-	id: "7215086886", // 歌单ID
+	id: "17849140729", // 歌单ID
 	server: "netease", // 音乐源服务器。有的meting的api源支持更多平台,一般来说,netease=网易云音乐, tencent=QQ音乐, kugou=酷狗音乐, xiami=虾米音乐, baidu=百度音乐
 	type: "playlist", // 播单类型
 };
