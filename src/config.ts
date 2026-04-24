@@ -53,7 +53,7 @@ export const siteConfig: SiteConfig = {
 		// 显示模式："text-icon" 显示图标+文本，"logo" 仅显示Logo
 		mode: "text-icon",
 		// 顶栏标题文本
-		text: "九成|橘子熊的博客",
+		text: "橘子熊的博客",
 		// 顶栏标题图标路径，默认使用 public/assets/home/home.png   assets/home/home.png
 		icon: "public/assets/home/home.png",
 		// 网站Logo图片路径
@@ -155,7 +155,7 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true, // 在主页显示自定义文本
-			title: "九成|橘子熊的博客", // 主页横幅主标题
+			title: "橘子熊的博客", // 主页横幅主标题
 
 			subtitle: [
 				"便签|小熊盆栽开发中......",
@@ -261,7 +261,7 @@ export const navBarConfig: NavBarConfig = {
 				},
 				{
 					name: "POME提问箱",
-					url: "https://www.pome.vip/44bbcfb4",
+					url: "https://box.n3ko.cc/_/orangebear",
 					external: true,
 					icon: "material-symbols:box-outline",
 				},
@@ -345,7 +345,7 @@ export const navBarConfig: NavBarConfig = {
 
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "九成",
+	name: "橘子熊",
 	bio: "最新更新:便签熊",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
