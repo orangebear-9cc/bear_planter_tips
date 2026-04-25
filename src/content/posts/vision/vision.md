@@ -1,6 +1,6 @@
 ---
 title: "便签历史版本存放"
-encrypted: true
+encrypted: false
 password: '123456'
 published: 2026-03-22
 pinned: false
@@ -12,7 +12,9 @@ draft: false
 date: 2026-03-22
 pubDate: 2026-03-22
 ---
-alpha v0.5
+alpha v0.6
+https://wwatn.lanzouu.com/ieElk3o11okj
+密码:7zbh
 ---
 
 
