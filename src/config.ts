@@ -255,12 +255,12 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "小红书",
-					url: "https://xhsink.com/m/1YuJe9Bz/Uxk",
+					url: " https://xhslink.com/m/AiMdB7J3xNl,
 					external: true,
 					icon: "simple-icons:xiaohongshu",
 				},
 				{
-					name: "POME提问箱",
+					name: "NEKO BOX",
 					url: "https://box.n3ko.cc/_/orangebear",
 					external: true,
 					icon: "material-symbols:box-outline",
